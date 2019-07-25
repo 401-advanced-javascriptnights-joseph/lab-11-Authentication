@@ -23,6 +23,8 @@
 #### `error.js`
 #### `books.js`
 #### `supergoose.js`
+#### `middleware.test.js`
+#### `router.test.js`
 
 ##### Exported Values and Methods
 
