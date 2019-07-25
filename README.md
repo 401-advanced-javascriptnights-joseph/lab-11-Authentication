@@ -5,12 +5,9 @@
 ### Author: Joseph Hangarter
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
+* [submission PR](https://github.com/401-advanced-javascriptnights-joseph/lab-11-Authentication/pull/4)
+* [travis]([![Build Status](https://travis-ci.com/401-advanced-javascriptnights-joseph/lab-11-Authentication.svg?branch=master)](https://travis-ci.com/401-advanced-javascriptnights-joseph/lab-11-Authentication))
 * [heroku](https://lab-authentication.herokuapp.com/)
-
-#### Documentation
-* [api docs](http://xyz.com) (API servers)
 
 ### Modules
 #### `index.js`
